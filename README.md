@@ -1,15 +1,14 @@
 # express-typescript-initial
 a express+typescript server template
 
-安装依赖
+### Project setup
 
-```shell
+```
 npm install
 ```
 
-运行
+### Compiles and hot-reloads for development
 
-```shell
+```
 npm start
 ```
-
