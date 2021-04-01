@@ -4,11 +4,11 @@ a express+typescript server template
 ### Project setup
 
 ```
-npm install
+npm install  /  yarn
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-npm start
+npm run start  /  yarn start 
 ```
